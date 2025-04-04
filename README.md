@@ -113,3 +113,4 @@ src/
 
 MIT Licensed - See [LICENSE](LICENSE) for details.
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
